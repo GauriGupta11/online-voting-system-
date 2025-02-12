@@ -9,4 +9,4 @@ A console-based voting system implemented in C that simulates an election proces
 - Multi-file C structure with a `Makefile`
 
 ## How to Build
-1. Clone the repository
+1. Clone the repository..
