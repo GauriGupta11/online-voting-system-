@@ -6,7 +6,7 @@ A console-based voting system implemented in C that simulates an election proces
 - Voter Authentication
 - Secure Voting Process
 - Admin Panel for Results
-- Multi-file C structure with a `Makefile`
+- Multi-file C structure with a `Makefile`.
 
 ## How to Build
 1. Clone the repository.
